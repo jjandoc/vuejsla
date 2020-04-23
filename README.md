@@ -20,3 +20,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Contributors
+
+Logo design by [Eli Silverman](http://madebycaliper.com/) and [Romain Capelle](https://romaincapelle.com/).
